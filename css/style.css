@@ -928,3 +928,17 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+
+.pannel{
+  margin-top: 200px;
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+
+.pannel a {
+  text-decoration: none;
+  color: red;
+}
